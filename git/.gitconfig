@@ -1,0 +1,22 @@
+[user]
+    name = caozhipan
+    email = 1361526041@qq.com
+[http]
+    sslverify = false
+[core]
+    editor = vim
+[merge]
+    tool = vimdiff
+[diff]
+    tool = vimdiff
+[alias]
+    br = branch
+    co = checkout
+    ci = commit
+    st = status
+[color]
+    ui = true
+[gui]
+    encoding = utf-8
+[difftool]
+    prompt = false
