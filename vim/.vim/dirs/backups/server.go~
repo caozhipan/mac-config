@@ -1,0 +1,12 @@
+package main
+import{
+	"fmt"
+}
+
+func main(){
+	fmt.Print("hello world!!!")
+	fmt.Printf("%d", 1)
+}
+func hello_test(){
+	fmt.Print("hello world")
+}

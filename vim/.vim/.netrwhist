@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/caozhipan/go_test/src/im/lib'
+let g:netrw_dirhist_2='/Users/caozhipan/go_test/src/im_api/routers'
+let g:netrw_dirhist_3='/Users/caozhipan/go_test/src/im_api/controllers'
+let g:netrw_dirhist_4='/Users/caozhipan/go_test/src/im/routers'
+let g:netrw_dirhist_5='/Users/caozhipan/go_test/src/im/.git'
+let g:netrw_dirhist_6='/Users/caozhipan/logs/im_api'
