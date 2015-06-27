@@ -5,7 +5,8 @@ export ZSH=/Users/caozhipan/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="clean"
+#ZSH_THEME="clean"
+ZSH_THEME="zhann"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -87,11 +88,5 @@ alias ssdb-start="~/tools/ssdb/ssdb-server -d ~/tools/ssdb/ssdb.conf"
 alias ssdb-stop='kill `cat ~/tools/ssdb/var/ssdb.pid`'
 alias ssdb-cli="~/tools/ssdb/ssdb-cli"
 
-
-
-
-
-
-
-
-
+alias ts="sh ~/sh/start.sh"
+alias docker-start="zsh ~/sh/docker.sh"
